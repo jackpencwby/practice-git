@@ -5,3 +5,13 @@ html,body {
 h1 {
     color: red;
 }
+
+h2 {
+    color:white;
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    color:green;
+}
